@@ -1,0 +1,18 @@
+{
+    "name": "toy-webpack",
+    "version": "1.0.0",
+    "description": "",
+    "main": "bundle.js",
+    "scripts": {
+        "start": "node ./src/bundle.js"
+    },
+    "keywords": [],
+    "author": "sucaizi",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.11.1",
+        "@babel/parser": "^7.11.3",
+        "@babel/preset-env": "^7.11.0",
+        "@babel/traverse": "^7.11.0"
+    }
+}
